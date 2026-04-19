@@ -5,14 +5,25 @@
 </p> -->
 
 ## 👨‍💻 About Me
-- 🏫 Student at the Faculty of Information Technology & Computer Science, Sinai University  
-- 💡 Passionate about solving problems using software  
-- 🤖 Currently learning Artificial Intelligence & Machine Learning  
-- 🧠 Strong problem-solving skills (Competitive Programming)  
-- 🎯 Seeking internships to gain hands-on experience  
-- 📚 Continuously learning and improving  
+- 🏫 Student at the Faculty of Information Technology & Computer Science, `Sinai University`.
+- 🧠 I am a competitive programmer at <a class ="mylink" href="https://codeforces.com/profile/amrahmedsayde">`Codeforces`</a> ,<a class ="mylink" href="https://leetcode.com/u/Amr_Ahmed0/">`Leetcode`</a>  and <a class ="mylink" href="https://atcoder.jp/users/Amr_Ahmed0">`Atcoder`</a>.
+- 💡 Passionate about solving problems using software.
+- 🤖 Currently learning Artificial Intelligence & Machine Learning.
+- 🎯 Seeking internships to gain hands-on experience.
+- 📚 Continuously learning and improving.
 
----
+<!--
+- Competitive Programming Profiles:
+<div align="left">
+  <a href="https://codeforces.com/profile/amrahmedsayde"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" width=4% alt="Codeforces"/></a>
+  &emsp; 
+  <a href="https://leetcode.com/u/Amr_Ahmed0/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width=4% alt="LeetCode"/></a>
+  &emsp; 
+  <a href="https://atcoder.jp/users/Amr_Ahmed0"><img src="https://i.ibb.co/Q9WSjDB/logo.png" width=4% alt="AtCoder"/></a>
+  &emsp; 
+</div>
+-->
+##
 
 ## 🚀 Programming Languages & Web
 <table>
@@ -31,7 +42,7 @@
   </tr>
 </table>
 
----
+##
 
 ## 🛠️ Tools & Technologies
 <table>
@@ -47,7 +58,7 @@
 
 </table>
 
----
+##
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -58,7 +69,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amr-ahmed&theme=tokyo-night" />
 </p>
 
----
+##
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amr-ahmed&color=blue&style=flat-square" />
