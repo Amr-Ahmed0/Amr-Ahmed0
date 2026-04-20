@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 - 🏫 Student at the Faculty of Information Technology & Computer Science, `Sinai University`.
-- 🧠 I am a competitive programmer at <a class ="mylink" href="https://codeforces.com/profile/amrahmedsayde">`Codeforces`</a> ,<a class ="mylink" href="https://leetcode.com/u/Amr_Ahmed0/">`Leetcode`</a>  and <a class ="mylink" href="https://atcoder.jp/users/Amr_Ahmed0">`Atcoder`</a>.
+- 🧠 I am a competitive programmer at <a class ="mylink" href="https://codeforces.com/profile/amrahmedsayde">`Codeforces`</a> ,<a class ="mylink" href="https://leetcode.com/u/Amr_Ahmed0/">`Leetcode`</a>, <a class ="mylink" href="https://vjudge.net/user/Amr_Ahmed0">`Vjudge`</a>  and <a class ="mylink" href="https://atcoder.jp/users/Amr_Ahmed0">`Atcoder`</a>.
 - 💡 Passionate about solving problems using software.
 - 🤖 Currently learning Artificial Intelligence & Machine Learning.
 - 🎯 Seeking internships to gain hands-on experience.
