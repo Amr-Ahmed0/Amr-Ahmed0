@@ -1,13 +1,13 @@
 
 <h1 align="center">Amr Ahmed | Software Engineer | AI & Data Enthusiast</h1>
 <!-- <p align="center">
-  Front-End Developer | IT &CS Student @SU ’29 | Learning AI & Data
+  Full-Stack Developer | IT & CS Student @ SU ’29 | Learning AI & Data
 </p> -->
 
 ## 👨‍💻 About Me
-- 🏫 Student at the Faculty of Information Technology & Computer Science, `Sinai University`.
+- 🏫 A student at `Sinai University's` Faculty of Information Technology & Computer Science..
 - 🧠 I am a competitive programmer at <a class ="mylink" href="https://codeforces.com/profile/amrahmedsayde">`Codeforces`</a> ,<a class ="mylink" href="https://leetcode.com/u/Amr_Ahmed0/">`Leetcode`</a>, <a class ="mylink" href="https://vjudge.net/user/Amr_Ahmed0">`Vjudge`</a>  and <a class ="mylink" href="https://atcoder.jp/users/Amr_Ahmed0">`Atcoder`</a>.
-- 💡 Passionate about solving problems using software.
+- 💡 Liking the challenge of using software to solve problems.
 - 🤖 Currently learning Artificial Intelligence & Machine Learning.
 - 🎯 Seeking internships to gain hands-on experience.
 - 📚 Continuously learning and improving.
