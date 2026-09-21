@@ -15,21 +15,19 @@
 * 🎓 **CS Undergraduate** at Sinai University (Class of 2029) focusing on **AI & Data Engineering**.
 * 🏆 **Competitive Programmer & ICPC Participant**, actively solving algorithmic challenges on [Codeforces](https://codeforces.com/profile/amrahmedsayde), [LeetCode](https://leetcode.com/u/Amr_Ahmed0/), and [AtCoder](https://atcoder.jp/users/Amr_Ahmed0).
 * ⚙️ Experienced in building **scalable relational database systems**, **automated ETL pipelines**, and applied **machine learning models**.
-* 🌐 Alumnus of **GCI World (The University of Tokyo)** in Data Science & Machine Learning.
+* 🌐 **GCI Scholar in AI & Data Science** at Matsuo-Iwasawa Lab, The University of Tokyo.
 * 🎯 Open to **AI & Data Engineering Internships** and collaborative open-source data projects.
 
 ---
 
-### 🛠️ Tech Stack & Engineering Arsenal
+### 🛠️ Technical Skills
 
 **Data Science, Machine Learning & Deep Learning**
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
 </p>
 
 **Data Engineering, Pipelines & Analytics**
@@ -53,7 +51,6 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 **Development Tools, Cloud & Environments**
